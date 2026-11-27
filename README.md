@@ -3,7 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,17,24&text=Hi%2C%20I'm%20Mohd%20Uzaif%20Ansari&fontColor=6B4E71&fontSize=38&section=header" width="100%"/>
 
-**Full-Stack Developer** · building things for the web ✿
+**Somewhere between ideas and implementation.**  
+Exploring AI, building with code. ✦
 
 </div>
 
@@ -38,6 +39,6 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-uzaif&layout=compact&title_color=D6639A&text_color=6B4E71&bg_color=FFF0F6&border_color=F8C8DC&border_radius=20"/>
 
-<img src="https://streak-stats.demolab.com/?user=mohammad-uzaif&background=FFF0F6&border=F8C8DC&ring=D6639A&fire=FF8FB1&currStreakNum=6B4E71&sideNums=6B4E71&currStreakLabel=D6639A&sideLabels=6B4E71&dates=9C7FA8&border_radius=20"/>
+<img src="https://streak-stats.demolab.com/?user=mohammad-uzaif&timezone=Asia%2FKolkata&background=FFF0F6&border=F8C8DC&ring=D6639A&fire=FF8FB1&currStreakNum=6B4E71&sideNums=6B4E71&currStreakLabel=D6639A&sideLabels=6B4E71&dates=9C7FA8&border_radius=20"/>
 
 </div>
