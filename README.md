@@ -39,6 +39,8 @@ Exploring AI, building with code. ✦
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-uzaif&layout=compact&title_color=D6639A&text_color=6B4E71&bg_color=FFF0F6&border_color=F8C8DC&border_radius=20"/>
 
-<img src="https://streak-stats.demolab.com/?user=mohammad-uzaif&timezone=Asia%2FKolkata&background=FFF0F6&border=F8C8DC&ring=D6639A&fire=FF8FB1&currStreakNum=6B4E71&sideNums=6B4E71&currStreakLabel=D6639A&sideLabels=6B4E71&dates=9C7FA8&border_radius=20"/>
+<br/>
+
+<img width="90%" src="https://github-stats-livid-three.vercel.app/streak?user=mohammad-uzaif&theme=light&palette=candy" alt="GitHub Contribution Stats"/>
 
 </div>
